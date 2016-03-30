@@ -1,1 +1,2 @@
 
+$( 'article' ).remove( 'img' );
