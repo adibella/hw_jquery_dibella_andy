@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 
+$( document ).ready( function() {
+
 $( 'article' ).remove( 'img' );
+
+} );
+
 ||||||| merged common ancestors
 
 =======
